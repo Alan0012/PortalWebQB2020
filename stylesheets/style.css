@@ -44,7 +44,7 @@
 		overflow-y: scroll;
 		-webkit-text-size-adjust: 100%;
            -ms-text-size-adjust: 100%;
-    scroll-behavior: smooth;
+        scroll-behavior: smooth; /*efecto scroll en navbar
 }
 	}
 
