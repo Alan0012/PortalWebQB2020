@@ -2905,8 +2905,33 @@ a.link:hover {
 .maps
 {
     
-    padding-top: 5%;
-    margin-left: 16%;
-    padding-bottom: 5%;
+    padding-top: 2%;
+    margin-left: 15%;
+    margin-bottom: 2%;
 }
+.links a
+{
+
+    color: white;
+
+}
+
+.links a:hover
+{
+
+    color: #009BF3;
+
+}
+.links a:visited
+{
+    color: gray;
+}
+
+.links a:visited
+{
+
+    color: red;
+
+}
+
 
