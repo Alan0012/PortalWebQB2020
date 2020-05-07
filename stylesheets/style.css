@@ -2909,6 +2909,9 @@ a.link:hover {
     margin-left: 15%;
     margin-bottom: 2%;
 }
+
+/* Color de los links del Cabecera 
+-------------------------------------------------------------- */
 .links a
 {
 
@@ -2933,5 +2936,6 @@ a.link:hover {
     color: red;
 
 }
-
+/* FIN - Color de los links del Cabecera 
+-------------------------------------------------------------- */
 
