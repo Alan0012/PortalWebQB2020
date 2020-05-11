@@ -697,7 +697,22 @@
             $('.parallax2').parallax("50%", -0.8);  
             $('.parallax3').parallax("50%", -1.2);
             $('.parallax4').parallax("50%", -0.5);
-            $('.parallax5').parallax("50%", -0.5);            
+            $('.parallax5').parallax("50%", -0.5);
+			$('.parallax6').parallax("50%", -0.5);
+			$('.parallax7').parallax("50%", -0.5);
+			$('.parallax8').parallax("50%", -0.5);
+			$('.parallax9').parallax("50%", -0.9);
+			$('.parallax10').parallax("50%", -0.5);
+			$('.parallax11').parallax("50%", -0.5);
+			$('.parallax12').parallax("50%", -0.5);
+			$('.parallax13').parallax("50%", -0.5);
+			$('.parallax14').parallax("50%", -0.5);
+			$('.parallax15').parallax("50%", -0.5);
+			$('.parallax16').parallax("50%", -0.5);
+			$('.parallax17').parallax("50%", -0.5);
+			$('.parallax18').parallax("50%", -0.5);
+			$('.parallax19').parallax("50%", -0.5);
+			$('.parallax20').parallax("50%", -0.5);
         }
     };
 
