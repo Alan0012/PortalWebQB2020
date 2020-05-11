@@ -351,7 +351,7 @@
 
 .title-section.style_2 .title {
     padding: 10px 0;
-    background-image: url(../images/testimonials/1.png);
+    
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -712,7 +712,7 @@
 /* Iconbox style_3 */
 .iconbox.style_3 {
     background: #ffffff;
-    padding: 30px;
+    padding: 20px;
     border: 1px solid rgba(0, 0, 0, 0.1);
     -webkit-transition: all 0.3s ease-in-out;
        -moz-transition: all 0.3s ease-in-out;
