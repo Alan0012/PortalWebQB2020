@@ -163,13 +163,26 @@
     font-size: 14px;
 }
 
+.font-size-18px {
+    font-size: 18px;
+}
+
 /* Padding top */
 .pad-top0px {
     padding-top: 0px;
 }
 
+/* Padding top */
+.pad-top5px {
+    padding-top: 5px;
+}
+
 .pad-top20px {
     padding-top: 20px;
+}
+
+.pad-top30px {
+    padding-top: 30px;
 }
 
 .pad-top60px {
@@ -195,6 +208,10 @@
 /* Padding bottom */
 .pad-bottom0px {
     padding-bottom: 0px;
+}
+
+.pad-bottom5px {
+    padding-bottom: 5px;
 }
 
 .pad-bottom20px {
