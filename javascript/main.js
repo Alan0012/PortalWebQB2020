@@ -699,7 +699,7 @@
             $('.parallax4').parallax("50%", -0.5);
             $('.parallax5').parallax("50%", -0.5);
 			$('.parallax6').parallax("50%", -0.5);
-			$('.parallax7').parallax("50%", -0.5);
+			$('.parallax7').parallax("50%", -0.6);
 			$('.parallax8').parallax("50%", -0.5);
 			$('.parallax9').parallax("50%", -0.9);
 			$('.parallax10').parallax("50%", -0.5);
