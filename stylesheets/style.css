@@ -745,7 +745,7 @@ a.link:hover {
 	width: 100%;
 }
 
-/* Header Home2 */
+/* Header #mainnav > ul > li > a:hover, #mainnav > ul > li.home > a2 */
 .header .header-wrap.header-style02 {
 	background: #fff;
     position: absolute;
@@ -952,6 +952,8 @@ a.link:hover {
 #mainnav > ul > li.home > a {
    color: #0263d4 ;
 }
+
+
 
 /* Mega Menu */
 #mainnav .has-mega-menu .submenu.mega-menu {
