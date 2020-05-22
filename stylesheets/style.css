@@ -2947,6 +2947,33 @@ a.link:hover {
     color: red;
 
 }
+
+.container01 {
+    padding-right: 15px;
+    padding-left: 10%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container02 {
+    display: inline-block;
+    padding-right: 15px;
+    padding-left: 10%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.youtube02 
+{
+    height="400px";
+    width= "600px";
+    
+
+}
+
+
+
+
 /* FIN - Color de los links del Cabecera 
 -------------------------------------------------------------- */
 

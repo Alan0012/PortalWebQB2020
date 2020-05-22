@@ -916,7 +916,7 @@
 
 .imagebox .box-image > a {
     background-color: #0263d4;
-    display: block;
+    display: inline-flex;
     position: relative;
 }
 
